@@ -23,7 +23,6 @@ Setting up Microsoft Autopilot involves several key steps:
 4. **Distributing Devices:** Once profiles are assigned, devices can be distributed to users, who can complete the setup by simply powering on the device and connecting to the internet. 
 
 ## Conclusion 
-
 Microsoft Autopilot is transforming the way businesses deploy and manage devices, offering a more streamlined, secure, and efficient approach. By automating the initial setup and configuration of Windows devices, Autopilot not only saves valuable IT time but also ensures a consistent and compliant device state across the organization. 
 
 To fully harness the capabilities of Microsoft Autopilot and integrate it seamlessly into your IT infrastructure, specialized training is essential. Eccentrix offers [comprehensive training ](https://www.eccentrix.ca/en/courses/microsoft/microsoft-365/microsoft-365-certified-modern-desktop-administrator-associate-md102) on Microsoft Autopilot, designed to equip IT professionals with the skills and knowledge required to effectively implement and manage this powerful tool. It is whether you're looking to optimize device deployment, enhance security, or improve operational efficiency. 
